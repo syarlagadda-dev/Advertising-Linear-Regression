@@ -16,4 +16,6 @@ Overall, because of the high variance for Radio and Newspaper, linear regression
 
 In terms of societal impact, this project allows us to truly see the advertising potential in various media. Radio advertising is often overlooked, but according to our model, there is some real potential in the medium as long as risk is accounted for.
 
-* Note: 2 more additional experiments have been conducted to test model accuracy and alternate calculations, although general trends stay somewhat the same.
+* Note: 2 more additional experiments have been conducted to test model accuracy and alternate calculations, although general trends stay somewhat the same. Across multiple approaches to the model, TV advertising stays the most consistent and reliable.
+
+References/Dataset: https://www.kaggle.com/datasets/ashydv/advertising-dataset 
